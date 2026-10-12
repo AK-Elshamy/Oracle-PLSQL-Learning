@@ -43,3 +43,4 @@ database-system-concepts/
 
 > This repository is a learning log. Examples may evolve as concepts are
 > revisited and improved.
+---
